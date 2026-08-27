@@ -16,7 +16,7 @@ CineMind helps users decide what to watch by combining their preferred genres, m
 
 ## 🌐 Live Website
 
-**Website:** 
+**Website:** https://yuktikapoor18-ux.github.io/ai-movie-show-recommender/
 
 ---
 
